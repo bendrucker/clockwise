@@ -1,0 +1,8 @@
+{
+  "optional": [
+    "es7.classProperties"
+  ],
+  "plugins": [
+    "object-assign"
+  ]
+}
