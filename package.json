@@ -1,7 +1,7 @@
 {
   "name": "clockwise",
   "main": "./src",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A simple, configurable clock",
   "license": "MIT",
   "repository": "bendrucker/clockwise",
