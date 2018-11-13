@@ -1,4 +1,4 @@
-# clockwise [![Build Status](https://travis-ci.org/bendrucker/clockwise.svg?branch=master)](https://travis-ci.org/bendrucker/clockwise)
+# clockwise [![Build Status](https://travis-ci.org/bendrucker/clockwise.svg?branch=master)](https://travis-ci.org/bendrucker/clockwise) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/clockwise.svg)](https://greenkeeper.io/)
 
 > A simple, configurable clock
 
